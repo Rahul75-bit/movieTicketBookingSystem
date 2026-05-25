@@ -6,6 +6,9 @@ frontend/build
 # Spring Boot
 backend/target
 
+# Eclipse
+movieBooking/.metadata/
+
 # IDE
 .idea
 .vscode
